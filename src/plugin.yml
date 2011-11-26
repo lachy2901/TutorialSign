@@ -1,0 +1,6 @@
+name: TutorialSign
+main: com.precipicegames.TutorialSign.TutorialSign
+version: 1.0
+permissions:
+    tutorialsign.place:
+        description: Lets you place Tutorial Signs.
