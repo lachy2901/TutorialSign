@@ -10,6 +10,10 @@
             <id>bukkit-repo</id>
             <url>http://repo.bukkit.org/artifactory/repo</url>
         </repository>
+	<repository>
+		<id>spout-repo</id>
+		<url>http://repo.getspout.org</url>
+	</repository>
     </repositories>
     <build>
         <plugins>
