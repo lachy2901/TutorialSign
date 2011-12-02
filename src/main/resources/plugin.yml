@@ -9,3 +9,7 @@ version: '1.0'
 permissions:
     tutorialsign.place:
         description: Lets you place Tutorial Signs.
+commands:
+    tut:
+        aliases: tutorial
+        usage: /tut stop or /tut play <category> <content>
