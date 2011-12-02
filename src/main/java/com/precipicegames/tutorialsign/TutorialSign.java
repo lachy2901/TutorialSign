@@ -1,11 +1,9 @@
-package com.precipicegames.TutorialSign;
+package com.precipicegames.tutorialsign;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.logging.Logger;
 
-import org.bukkit.configuration.file.FileConfiguration;
-import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.event.Event;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.PluginManager;
