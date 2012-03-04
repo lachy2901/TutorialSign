@@ -1,0 +1,15 @@
+author: lachy2901
+database: false
+description: Spout enabled audio tutorial system.
+main: com.precipicegames.tutorialsign.TutorialSign
+name: TutorialSign
+startup: postworld
+url: https://github.com/PrecipiceGames/TutorialSign
+version: '1.0'
+permissions:
+    tutorialsign.place:
+        description: Lets you place Tutorial Signs.
+commands:
+    tut:
+        aliases: tutorial
+        usage: /tut stop or /tut play <category> <content>
